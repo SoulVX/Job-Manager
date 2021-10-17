@@ -1,0 +1,100 @@
+{
+  "jobs": [
+    {
+      "company": "Google",
+      "department": "IT",
+      "name": "Software Developer Engineer",
+      "positions": 1,
+      "salary": 10000,
+      "constraints": [
+        {
+          "type": "graduation",
+          "min": 2002,
+          "max": 2020
+        },
+        {
+          "type": "experience",
+          "min": 2,
+          "max": 6
+        },
+        {
+          "type": "average",
+          "min": 8,
+          "max": null
+        }
+      ]
+    },
+    {
+      "company": "Google",
+      "department": "IT",
+      "name": "Software Developer Engineer Intern",
+      "positions": 1,
+      "salary": 5000,
+      "constraints": [
+        {
+          "type": "graduation",
+          "min": null,
+          "max": null
+        },
+        {
+          "type": "experience",
+          "min": 0,
+          "max": 2
+        },
+        {
+          "type": "average",
+          "min": 9,
+          "max": null
+        }
+      ]
+    },
+    {
+      "company": "Amazon",
+      "department": "IT",
+      "name": "Software Developer Engineer",
+      "positions": 1,
+      "salary": 12000,
+      "constraints": [
+        {
+          "type": "graduation",
+          "min": 2014,
+          "max": 2020
+        },
+        {
+          "type": "experience",
+          "min": 1,
+          "max": null
+        },
+        {
+          "type": "average",
+          "min": 9,
+          "max": null
+        }
+      ]
+    },
+    {
+      "company": "Amazon",
+      "department": "IT",
+      "name": "Software Developer Engineer Intern",
+      "positions": 1,
+      "salary": 6000,
+      "constraints": [
+        {
+          "type": "graduation",
+          "min": null,
+          "max": null
+        },
+        {
+          "type": "experience",
+          "min": 0,
+          "max": 2
+        },
+        {
+          "type": "average",
+          "min": 9.35,
+          "max": null
+        }
+      ]
+    }
+  ]
+}

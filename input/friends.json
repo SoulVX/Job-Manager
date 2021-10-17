@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "name": "Daniel Edmund",
+      "friends": [
+        "Julia Matvei",
+        "Leyla Stacy"
+      ]
+    },
+    {
+      "name": "Julia Matvei",
+      "friends": [
+        "Jonie Phillip",
+        "Steward Goodwin"
+      ]
+    },
+    {
+      "name": "Tamara Haci",
+      "friends": [
+        "Leyla Stacy",
+        "Linette Spartak"
+      ]
+    },
+    {
+      "name": "Linette Spartak",
+      "friends": [
+        "Bryson Reenie"
+      ]
+    },
+    {
+      "name": "Shana Addy",
+      "friends": [
+        "Bryson Reenie",
+        "Darrell Lillie"
+      ]
+    },
+    {
+      "name": "Leyla Stacy",
+      "friends": [
+        "Rolland Lyla",
+        "Janine Woody"
+      ]
+    },
+    {
+      "name": "Rolland Lyla",
+      "friends": [
+        "Damian Bodhi"
+      ]
+    }
+  ]
+}
